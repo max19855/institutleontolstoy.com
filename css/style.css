@@ -1,0 +1,101 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.c { width: 1200px;
+    height: 600px;
+    background-color: blue;
+    margin: auto;
+   margin-top: 20px;
+ 
+   background-image: url(../img/291-lev-nikolaievich-tolstoi-201401-06.jpg);
+
+
+}
+
+
+
+h1 {
+    padding-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: red;
+}
+
+.spisok {margin-bottom: 50px;
+ 
+}
+.spisok li {
+    display: inline; margin-left: 200px;
+    font-size: larger;font-family: cursive;
+    color: red;
+    }
+
+
+    .texto {
+        width: 800px;
+        margin: auto;
+        margin-bottom: 100px;
+    }
+    .texto p {
+      color: aqua; font-size: medium;
+        font-family: cursive;
+    }
+
+ .cdos {
+    width: 1200px;
+    height: 600px;
+    background-color: aqua;
+  
+background-image: url(../img/instituto\ adentro.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.cdos h2 {
+    text-align: center;
+    padding-top: 20px;
+    color: red;
+}
+
+.cursos {
+    width: 400px;
+    height: 200px;
+   
+    margin: auto;
+
+  margin-top: 100px;
+}
+.cursos p {
+    text-align: center;
+    font-family: cursive; color: azure;
+font-weight: 800;
+font-size: large;
+}
+.contact {
+    width: 600px;
+    height: 200px;
+ background-color: brown;
+    margin: auto;
+}
+.contact h3 {
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.contact p {
+    text-align: center;
+    font-size: large;
+    font-family: cursive;
+}
+
+
+
+
